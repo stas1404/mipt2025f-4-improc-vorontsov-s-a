@@ -1,0 +1,13 @@
+/home/stanislav/mipt2025f-4-improc/buid/CMakeFiles/edit_cache.dir
+/home/stanislav/mipt2025f-4-improc/buid/CMakeFiles/rebuild_cache.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/CMakeFiles/edit_cache.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/CMakeFiles/rebuild_cache.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/lab01/CMakeFiles/task01-01.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/lab01/CMakeFiles/edit_cache.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/lab01/CMakeFiles/rebuild_cache.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/lab02/CMakeFiles/task02-01.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/lab02/CMakeFiles/edit_cache.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/lab02/CMakeFiles/rebuild_cache.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/semcv/CMakeFiles/semcv.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/semcv/CMakeFiles/edit_cache.dir
+/home/stanislav/mipt2025f-4-improc/buid/prj.lab/semcv/CMakeFiles/rebuild_cache.dir

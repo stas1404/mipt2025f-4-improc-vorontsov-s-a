@@ -1,0 +1,20 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/stanislav/mipt2025f-4-improc/prj.lab/lab01/task01-01.cpp" "prj.lab/lab01/CMakeFiles/task01-01.dir/task01-01.cpp.o" "gcc" "prj.lab/lab01/CMakeFiles/task01-01.dir/task01-01.cpp.o.d"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/stanislav/mipt2025f-4-improc/buid/prj.lab/semcv/CMakeFiles/semcv.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
